@@ -78,7 +78,7 @@ Pourquoi ?
 ***Qui n'aimerait pas être le héros ? ! -> Fame
 ***Parce que j'ai l'occasion d'être grandiose
 Alors depuis tout ce temps, tu as été non grandiose et tu penses que juste parce que tu as l'épée, que maintenant tu vas changer? On va oublier ton passé et du jour au lendemain tu seras aussi assidu et habile que le Héros lui-même? Tu as attendu une occasion pour être grandiose? C'est pour ça que tu deviendras le pillier de l'humanité?
-****Je sais pas. Tu as raison je devrais juste être Messager
+****Je sais pas. Tu as raison je devrais juste être Messager ->Acceptation
 ****ça n'a pas d'importance, je peux remonter dans le temps, Je peux changer. -> ArgumentNonH
 
 
@@ -222,12 +222,14 @@ Et ainsi tu comprends que tu n'as pas le mérite de devenir le Héros. Ce n'est 
 
 
 
+/*
 == Décision1 ==
 La créature abberante est trop forte et agile même pour le Héro. Peut-être que si le héro le faisait face une deuxième il gagnerait mais il pourrait aussi utiliser de l'aide? D'ailleurs pourquoi le héro n'a pas de companion jusqu'à maintenant...? était-ce justement à cause de ce pouvoir procuré par l'épée? Cette ville à une académie de magie, une guilde d'aventurier et si cela existe, la guilde sombre. Il faudrait convaincre au moins une partie pour qu'on prépare l'arrivé du Héro affrontant la créature. Et bien sûr je ne peux révéler absoluement à personne le pouvoir de cette épée... En même temps qui me croirait que j'ai l'épée du Héro en ce moment même? D'ailleurs est-ce que le héro a lui aussi l'épée? est-ce qu'il se rappellera de ce qui s'était passé? est-ce que maintenant nous avons 2 épée et on peut les dupliquer de cette manière? Tant de questions...
 
-* Se diriger vers la guile d'aventurier
-* Se diriger vers l'académie de magie
-* Aller dans une taverne et essayer de trouver la guilde sombre
+ Se diriger vers la guile d'aventurier
+ Se diriger vers l'académie de magie
+ Aller dans une taverne et essayer de trouver la guilde sombre
+ */
 
 
 
