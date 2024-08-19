@@ -2,7 +2,7 @@ Le Héros git sans vie. En face, son bourreau se dresse, une créature aberrante
 
 *Crier "à l'aide ! Quelqu'un !"
 Aucun secours ne vient à ton appel. Si même le Héros, dans toute sa bravoure, n'a pu te tirer de ce cauchemar, qui le pourrait ? Dans un éclair, la créature fond sur toi, écrasant tout espoir sous sa puissance, plantant ses crocs acérés dans ton cou -> Début
-*Affronter courageusement la créature et de lui asséner des coups de lame pulsante jusqu'à ce qu'elle tombe, devenant ainsi le nouveau héros
+*Affronter courageusement la créature et de lui asséner des coups de la lame pulsante jusqu'à ce qu'elle tombe, devenant ainsi le nouveau héros
 La créature esquive tes coups d'un bond sur le côté, puis elle fond sur toi plantant ses crocs tranchants dans ton cou. À quoi tu t'attendais? Faire mieux que le Héros lui-même? -> Début
 *Faire le mort
 ...
@@ -16,7 +16,7 @@ Soudain, tu te retrouves allongé dans un lit avec une épée à tes côtés. Tu
 
 Cependant, alors que tu t'apprêtes à la reposer avec un soupire de déception, tes yeux captent un faible symbole, presque imperceptible, qui éclaire légèrement la base de l'épée. C'est comme si une lueur d'espoir persistait dans cette banalité apparente.
 
-Pourtant, malgré cette révélation, l'épée semble bien moins impressionnante que dans le rêve. Ou plutôt hier vu que c'était réel? Ou faut-il dire demain? Tu la replaces avec précaution, en réfléchissant à l'avenir. Désormais, tu sais ce qu'il te reste à faire avec cette lame... Toute ta vie, tu as nourri des rêves d'une destinée grandiose. Tu sentais qu'un jour, ce moment crucial se profilerait à l'horizon. Conscient du fardeau immense qui repose sur tes épaules, tu ressens soudain le poids du monde peser entre tes mains. Avec une grande inspiration, tu perçois déjà les contours de l'aventure qui t'attend. Tu deviendras...
+Pourtant, malgré cette révélation, l'épée semble bien moins impressionnante que dans le rêve. Ou plutôt hier vu que c'était réel? Ou faut-il dire dans quelques heures? Tu la replaces avec précaution, en réfléchissant à l'avenir. Désormais, tu sais ce qu'il te reste à faire avec cette lame... Toute ta vie, tu as nourri des rêves d'une destinée grandiose. Tu sentais qu'un jour, ce moment crucial se profilerait à l'horizon. Conscient du fardeau immense qui repose sur tes épaules, tu ressens soudain le poids du monde peser entre tes mains. Avec une grande inspiration, tu perçois déjà les contours de l'aventure qui t'attend. Tu deviendras...
 *[Le nouveau Héros] -> Messager
 *[Le Héros audacieux] -> Messager
 *[Le meilleur Héros] -> Messager
@@ -24,12 +24,14 @@ Pourtant, malgré cette révélation, l'épée semble bien moins impressionnante
 
 === SurprisePassif ===
 Le Messager du Hé- attends, quoi? Vraiment?
-Ton choix est certainement très logique, mais je m'attendais à ce qu'il y ait le vouloir de devenir soi-même un Héros... Au final, c'est parfait si c'est ce que tu veux, oui c'est évidemment parfait ! Il aurait été fatigant de t'expliquer à quel point il aurait été égoïste et irresponsable de vouloir devenir soi-même le Héros, alors que la terre entière est en danger à cause de la créature et toi tu serais là en train de t'amuser à jouer le Héros alors qu'il y en a un déjà prêt ! C'est toujours comme ça avec l'humain, malgré que la planète soit en danger, il y a toujours ceux qui mettent leur désir au dessus du bon sens... Pardon, il y a eu un égarement. Tout ceci pour te dire, mes félicitations pour ce choix réfléchi! Maintenant sors de cette pièce à la recherche de ce Héros !
+Ton choix est certainement très logique, mais je m'attendais à ce qu'il y ait le vouloir de devenir soi-même un Héros... Au final, c'est parfait si c'est ce que tu veux... oui c'est évidemment parfait ! Il aurait été fatigant de t'expliquer à quel point il aurait été égoïste et irresponsable de vouloir devenir soi-même le Héros, alors que la terre entière est en danger à cause de la créature et toi tu serais là en train de t'amuser à jouer le Héros alors qu'il y en a un déjà prêt ! C'est toujours comme ça avec l'humain, malgré que des vies sont en jeux, il y a toujours ceux qui mettent leur désir au dessus du bon sens... Pardon, il y a eu un égarement. Tout ceci pour te dire, mes félicitations pour ce choix réfléchi! Maintenant sors de cette pièce à la recherche de ce Héros !
 
 *Sortir accomplir son destin de Messager du Héros!
-Il ne fut guère ardu de tomber sur le Héros qui était déjà en quête de son artefact. Tu lui offris l'objet aussitôt et sa stupeur fut palpable devant la vitesse avec laquelle sa lame sacrée lui fut restituée, et ce, sans la moindre trace de convoitise pour son pouvoir. Il narra alors ses mésaventures antérieures, confiant que la perte de son épée était habituelle, amenant généralement à traquer les voleurs. Il expliqua que ce geste, restituer la lame à son légitime possesseur malgré le pouvoir divin et séduisant de l'arme, le toucha profondément. Ce qui lui valut de t'offrir son aide une fois la créature terrassée.
 
-Sur ces paroles empreintes de gratitude, il disparut de ta vue. Quelques heures plus tard, le vacarme des explosions et les grondements sinistres te parvinrent, témoins des affrontements épiques menés par le Héros. À son retour, il était peint d'une étrange couleur, semblable à celle qui coulait de sa lame, signe tangible de son héroïsme et puissance.
+===RencontreavecleHéros===
+Il ne fut guère ardu de tomber sur le Héros qui était déjà en quête de son artefact, une fois le soir tombé. Tu lui offris l'objet aussitôt et sa stupeur fut palpable devant la vitesse avec laquelle sa lame sacrée lui fut restituée, et ce, sans la moindre trace de convoitise pour son pouvoir. Il narre alors ses mésaventures antérieures, confiant que la perte de son épée était habituelle, amenant généralement à traquer les voleurs. Il explique que ce geste, restituer la lame à son légitime possesseur malgré le pouvoir divin et séduisant de l'arme, le touchait profondément. Ce qui lui valut de t'offrir son aide une fois la créature terrassée.
+
+Sur ces paroles empreintes de gratitude, il disparaît de ta vue. Quelques heures plus tard, le vacarme des explosions et les grondements sinistres te parviennent, témoins des affrontements épiques menés par le Héros. À son retour, il est peint d'une étrange couleur, semblable à celle qui coule de sa lame, signe tangible de son héroïsme et puissance.
 
 "Ô cher ami, sur le chemin du retour, je réalise que c'est la première fois qu'un être connaît mon secret et offre son aide. Désires-tu te joindre à mes aventures en tant qu'égal, ou préfères-tu demeurer ici ? Auqel cas, je te laisserai un artefact de protection et suffisamment de richesses pour toi et ta descendance."
 
