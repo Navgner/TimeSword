@@ -1,3 +1,7 @@
+VAR devenir_heros = false
+VAR devenir_messager = false
+
+
 Le Héros git sans vie. En face, son bourreau se dresse, une créature aberrante, monstrueuse, guettant sa prochaine victime, toi. Son sabot tremble, la terre frémit sous son poids. C'est une créature capable d'anéantir le Héros donc cela veut dire que tout les continents sans exception ne sont pas à l'abri de ses futurs ravages. Ton poing serre l'épée qui fut jadis brandie par le Héros lui-même ; tu l'as saisie quand la lame brillante valsa dans les airs après un dernier choc contre les griffes de la créature. Avec l'épée entre tes mains, une énergie parcourt ton être alors que des inscriptions sur l'épée se distinguent finalement, elles émanent d'une lumière dorée qui parcourt toute la longueur de la lame. Une étrange symbiose s'établit entre toi et cet artefact, comme si un cadenas s'était vérouillé. Malgré sa légèreté apparente, tu ressens que cette lame enfoncerait le sol une fois lâchée, une force capable de fendre même l'acier. C'est comme si l'épée elle-même était vivante, palpitante d'une énergie ancestrale prête à être libérée à chaque mouvement, à chaque pensée. Face à cette créature prête à bondir, tu te prépares à faire un choix crucial :
 
 *Crier "à l'aide ! Quelqu'un !"
@@ -17,10 +21,18 @@ Soudain, tu te retrouves allongé dans un lit avec une épée à tes côtés. Tu
 Cependant, alors que tu t'apprêtes à la reposer avec un soupire de déception, tes yeux captent un faible symbole, presque imperceptible, qui éclaire légèrement la base de l'épée. C'est comme si une lueur d'espoir persistait dans cette banalité apparente.
 
 Pourtant, malgré cette révélation, l'épée semble bien moins impressionnante que dans le rêve. Ou plutôt hier vu que c'était réel? Ou faut-il dire dans quelques heures? Tu la replaces avec précaution, en réfléchissant à l'avenir. Désormais, tu sais ce qu'il te reste à faire avec cette lame... Toute ta vie, tu as nourri des rêves d'une destinée grandiose. Tu sentais qu'un jour, ce moment crucial se profilerait à l'horizon. Conscient du fardeau immense qui repose sur tes épaules, tu ressens soudain le poids du monde peser entre tes mains. Avec une grande inspiration, tu perçois déjà les contours de l'aventure qui t'attend. Tu deviendras...
-*[Le nouveau Héros] -> Messager
-*[Le Héros audacieux] -> Messager
-*[Le meilleur Héros] -> Messager
-*[Le Messager du Héros qui lui ramène son épée] -> SurprisePassif
+*[Le nouveau Héros] -> choix_heros
+*[Le Héros audacieux] -> choix_heros
+*[Le meilleur Héros] -> choix_heros
+*[Le Messager du Héros qui lui ramène son épée] -> choix_messager
+
+=== choix_heros ===
+~ devenir_heros = true
+-> Messager
+
+=== choix_messager ===
+~ devenir_messager = true
+-> SurprisePassif
 
 === SurprisePassif ===
 Le Messager du Hé- attends, quoi? Vraiment?
@@ -28,16 +40,17 @@ Ton choix est certainement très logique, mais je m'attendais à ce qu'il y ait 
 
 *Sortir accomplir son destin de Messager du Héros!
 
-===RencontreavecleHéros===
-Il ne fut guère ardu de tomber sur le Héros qui était déjà en quête de son artefact, une fois le soir tombé. Tu lui offris l'objet aussitôt et sa stupeur fut palpable devant la vitesse avec laquelle sa lame sacrée lui fut restituée, et ce, sans la moindre trace de convoitise pour son pouvoir. Il narre alors ses mésaventures antérieures, confiant que la perte de son épée était habituelle, amenant généralement à traquer les voleurs. Il explique que ce geste, restituer la lame à son légitime possesseur malgré le pouvoir divin et séduisant de l'arme, le touchait profondément. Ce qui lui valut de t'offrir son aide une fois la créature terrassée.
+===RencontreAvecleHérosPassif===
+Le jour arrivé, il ne fut guère ardu de tomber sur le Héros en quête de son artefact. Tu lui offris l'objet aussitôt, et sa stupeur fut palpable devant la vitesse avec laquelle sa lame sacrée lui fut restituée et ce, sans la moindre trace de convoitise pour son pouvoir. Il narra alors ses mésaventures antérieures, confiant que la perte de son épée était habituelle, l'amenant généralement à traquer les voleurs. Il expliqua que ces actes, lever une petite armée, réunir les fonds pour des équipements, restituer la lame à son légitime possesseur malgré le pouvoir divin et séduisant de l'arme, le touchait profondément. Il jura de te rendre la pareille.
 
-Sur ces paroles empreintes de gratitude, il disparaît de ta vue. Quelques heures plus tard, le vacarme des explosions et les grondements sinistres te parviennent, témoins des affrontements épiques menés par le Héros. À son retour, il est peint d'une étrange couleur, semblable à celle qui coule de sa lame, signe tangible de son héroïsme et puissance.
+Sur ces paroles empreintes de gratitude, il disparaît de ta vue avec ses nouveaux coéquipiers. Quelques heures plus tard, le vacarme des explosions et les grondements sinistres te parviennent, témoins des affrontements épiques menés par le Héros. À son retour, il est peint d'une étrange couleur, semblable à celle qui coule de sa lame, signe tangible de son héroïsme et puissance.
 
-"Ô cher ami, sur le chemin du retour, je réalise que c'est la première fois qu'un être connaît mon secret et offre son aide. Désires-tu te joindre à mes aventures en tant qu'égal, ou préfères-tu demeurer ici ? Auqel cas, je te laisserai un artefact de protection et suffisamment de richesses pour toi et ta descendance."
+"Ô cher ami, sur le chemin du retour, je réalise que c'est la première fois qu'un être connaît mon secret et offre son aide. Désires-tu te joindre à mes aventures en tant qu'égal, ou préfères-tu demeurer ici ? Auquel cas, je te laisserai un artefact de protection et suffisamment de richesses pour toi et ta descendance."
 
 **"Merci, cher Héros. Bien que je t'aie restitué l'épée, je désirais aussi accomplir des prouesses semblables aux tiennes. Ce serait donc avec joie que je t'accompagnerai dans tes quêtes."
 "Alors, prépare-toi, compagnon, car demain à l'aube, nous commencerons ta première séance d'entraînement ! Après quoi, nous irons rejoindre la capitale dans le but de t'équiper et de prendre des quêtes à ton niveau pour progressivement atteindre le même niveau qu'aujourd'hui. Qui sait, tu pourras me succéder ?" Ria-t-il de bon cœur. Toi et le héros vous serrez le bras, et tes yeux se fixent sur le coucher de soleil au loin. Demain sera un nouveau jour et le début d'une grande aventure.
 -> DONE
+
 
 
 
@@ -100,7 +113,7 @@ Juste comme ça? Tu reçois l'épée, une destinée peut-être grandiose t'atten
 ***Mais qu'est-ce que tu veux à la fin?
 Je veux que tu prennes conscience que tu as le pouvoir de décider malgré ce que je dis, malgré les critiques que j'ai faite aussi justes ou injustes soient-elle. Je veux que tu comprennes que chacune de tes décisions a un impact et que tout ce que tu fais sera critiqué et acclamé. Je veux que tu prennes conscience de ta possible passivité. Je veux que tu comprennes que tu peux devenir quelqu'un dont tu rêves sans avoir besoin d'attendre une occasion de le devenir, que tu peux créer l'occasion. Je veux que tu réalises que toi, pas le simple toi, je parle du vrai toi, celui qui prend les décisions pour voir ce que je dirais, prenne conscience que tes actes actives aussi bien que passives ont des répurcussions, non seulement sur les autres, mais aussi sur l'environnement. Je veux que tu comprennes que tu es libre de faire ce que tu veux même si on te dit le contraire et en même temps de prendre garde à tes actions qui pourraient toujours avoir un côté négatif et conséquement amener un conflit. C'est ce conflit, à la base d'un désir, qui peut mener de fil en aiguille à un danger impactant tout le monde. C'est à partir d'un conflit, d'un désir qu'il peut y avoir une dispute, une bagarre, une rixe, une guerre et enfin le danger pour la planète elle-même. Je veux qu'en sortant de cette pièce, tu sois conscient non seulement de ton pouvoir, même en temps que simple personne ordinaire mais aussi ceux des autres qui pourraient aller à ton encontre ou te soutenir et que tu peux choisir un courant ou de t'y opposer ou même d'en créer un nouveau. Je veux que tu prennes conscience que c'est normal d'avoir des désirs aussi grands ou petits qu'ils puissent être, qu'ils soient nobles ou pas nobles et en même temps que chaque désir peut amener un conflit jusqu'au danger de la terre entière même quand la base n'était pas égoiste. Sois conscient de comment un désir peut évoluer et de ce que cela amménera. C'est à partir de ce moment que tu comprendras pourquoi je t'ai infligé toutes ces résistances, c'était pour voir ta détermination et ta capacité à faire face et de voir si tu pensais à ton entourage et environnement.
 **** C'est trop long, j'ai pas lu
-Bravo, tu as compris que tu n'étais pas obligé de m'écouter, à partir de maintenant c'est toi qui tient les rennes de ta vie. Sur ce, bonne chance.
+Bravo, tu as compris que tu n'étais pas obligé de m'écouter... Ne tardons
 ***** Fin
 ->DONE
 **** Okay, je peux faire l'aventure maintenant?
