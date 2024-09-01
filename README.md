@@ -36,5 +36,5 @@ Outils Utilisés:
 
 **Contexte de développement**
 
-Ce jeu a été fait dans le cadre du cours "Fiction intéractive" dispensé par Isaac Pante (SLI, Lettres, UNIL)), année 2024, comme cours interdisciplinaires SSP, Psychologie, Unil.
+Ce jeu a été fait dans le cadre du cours "Fiction interactive" dispensé par Isaac Pante (SLI, Lettres, UNIL)), année 2024, comme cours interdisciplinaires SSP, Psychologie, Unil.
 
