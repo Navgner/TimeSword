@@ -4,7 +4,7 @@ Time Sword? est une fiction interactive où vous vous retrouvez à la place du h
 
 À la place, vous devez persuader les habitants de la ville de vous aider en utilisant des tactiques psychologiques. La situation est compliquée : vous ne pouvez pas simplement annoncer qu'une créature menace la ville dans un monde où les papillons peuvent détruire des mondes entiers.
 
-À travers cette aventure, vous aurez l'occasion d'apprendre des astuces de psychologie, non seulement pour avancer dans le jeu, mais aussi pour vous préparer à de telles situations dans la vie réelle.
+À travers cette aventure, vous aurez l'occasion d'apprendre des astuces de psychologie, non seulement pour avancer dans le jeu, mais aussi pour vous préparer à de telles situations dans la vie réelle, reconnaître les tactiques utilisés contre vous.
 
 **Captures d'écran du jeu :**
 ![1](https://github.com/user-attachments/assets/ea66e09f-1bd7-4247-9b63-9b8dfc2b80f3)
