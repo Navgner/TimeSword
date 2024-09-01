@@ -1,4 +1,4 @@
-**Star Seeker**
+**Time Sword?**
 
 Time Sword? est une fiction interactive où vous vous retrouvez à la place du héros, maintenant défunt, avec son épée légendaire face à une créature monstrueuse. Dans cet univers absurde, vous vous attendez à utiliser le pouvoir de l'épée pour remonter le temps et vaincre le monstre. Mais surprise : l'épée ne peut plus remonter le temps.
 
