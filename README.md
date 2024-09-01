@@ -21,7 +21,7 @@ Il existe deux façons de jouer à ce jeu :
 
 
 **Modules, libraires, scripts utilisés**
-- Inky
+- Inkle/Ink
 
 
 **Copyrights, informations de licence, références**
