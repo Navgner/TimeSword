@@ -16,7 +16,7 @@ Time Sword? est une fiction interactive où vous vous retrouvez à la place du h
 
 Il existe deux façons de jouer à ce jeu :
 	
-- Jouer directement en ligne : Vous pouvez jouer au jeu directement sur le web en suivant ce lien: [https://navgner.itch.io/timesword]
+- Jouer directement en ligne : Vous pouvez jouer au jeu directement sur le web en suivant ce lien: https://navgner.itch.io/timesword
 - Télécharger et jouer hors ligne : Téléchargez le fichier au format 7zip. qui se trouve dans le lien itch.io qui a été mis juste au dessus. Décompressez ce fichier avec le logiciel gratuit 7zip (recommandé) ou WinRAR. Ensuite, dans le dossier décompressé, double-cliquez sur le fichier "index.html" pour lancer le jeu sur votre naviguateur.
 
 
