@@ -17,45 +17,25 @@ Time Sword? est une fiction interactive où vous vous retrouvez à la place du h
 
 Il existe deux façons de jouer à ce jeu :
 	
-- Jouer directement en ligne : Vous pouvez jouer au jeu directement sur le web en suivant ce lien: https://navgner.itch.io/star-seeker
-- Télécharger et jouer hors ligne : Téléchargez le fichier au format 7zip. qui se trouve dans le lien itch.io qui a été mis juste au dessus. Décompressez ce fichier avec le logiciel gratuit 7zip (recommandé) ou WinRAR. Ensuite, dans le dossier décompressé, double-cliquez sur le fichier "my project.exe" pour lancer le jeu.
+- Jouer directement en ligne : Vous pouvez jouer au jeu directement sur le web en suivant ce lien: [https://navgner.itch.io/timesword]
+- Télécharger et jouer hors ligne : Téléchargez le fichier au format 7zip. qui se trouve dans le lien itch.io qui a été mis juste au dessus. Décompressez ce fichier avec le logiciel gratuit 7zip (recommandé) ou WinRAR. Ensuite, dans le dossier décompressé, double-cliquez sur le fichier "index.html" pour lancer le jeu sur votre naviguateur.
 
 
 **Modules, libraires, scripts utilisés**
-- Made with Unity technologies
-- Scripts : 2D Game Kit from Unity, https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098, https://unity.com/fr/legal/as-terms
-- Menu buttons made with Alpaca Studio
-- ProjectMakers
+- Inky
 
 
 **Copyrights, informations de licence, références**
-- Musiques : 
-	- "Guiding Light", Helios by Alex Diggelmann, https://oliver-leins.itch.io/helios-ost
-	- "Refuge of the Fallen", Rocklynn Productions, https://assetstore.unity.com/packages/audio/music/orchestral/end-credits-refuge-of-the-fallen-music-pack-13820#publisher, https://unity.com/fr/legal/as-terms
-- Sound effect des étoiles : "UI-Accept or forward" de ViRiX (David McKee), https://opengameart.org/content/ui-accept-or-forward, https://creativecommons.org/licenses/by/3.0/
-- Autres sounds effects : 2D Game Kit from Unity, https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098, https://unity.com/fr/legal/as-terms
-- Background :
-  - "Simple Nature Pixel Background for Video Game" and "Pixelated sunset behind the clouds game background" by CraftPix.net 2D Game Assets (Compilation des images et retexturatisation), https://opengameart.org/content/simple-nature-pixel-background-for-video-game, https://opengameart.org/content/pixelated-sunset-behind-the-clouds-game-background, https://static.opengameart.org/OGA-BY-3.0.txt
-  - "18 Gradient Skies (640x480)" by rh0 (modifié et intégré dans le fond du ciel étoilé), https://opengameart.org/content/18-gradient-skies-640x480, https://creativecommons.org/publicdomain/zero/1.0/
-- Police pour les crédits et la page d'informations supplémentaires : Monotype Corsiva de Word
 - Ressources scientifiques :
-    *https://clan-du-dragon.com/blogs/blog-le-clan-du-dragon/constellation-du-dragon 
-    https://fr.wikipedia.org/wiki/Dragon_(constellation)*
+    Guéguen, N. (2022). Psychologie de la manipulation et de la soumission. Dunod.
 
 Outils Utilisés:
-- ChatGPT - Pour créer et résoudre du codage. Tout les codes ont été générés par ChatGPT.
+- ChatGPT - Pour corriger les fautes de français. Tous les grands paragraphes ont été corrigé avec le prompt suivant “Corrige le texte suivant sans changer mon style d’écriture. Si tu peux rendre le texte plus fluide en réarrangeant l’ordre des phrases, fais-le, mais n’invente aucune nouvelle information ou phrase par rapport à ce qui est déjà écrit.”
   - Fourni par: OpenAI
   - URL: [ChatGPT](https://www.openai.com/chatgpt)
-- Logiciel utilisé pour le game art : Krita
-- UnitySweeper - Un outil pour nettoyer les projets Unity.
-  URL: https://github.com/nom-du-repo/unitysweeper
-  Licence: MIT License
-  Copyright (c) 2022 notiontheory
-  La licence MIT complète est disponible à l'adresse suivante :
-  https://github.com/nom-du-repo/unitysweeper/blob/main/LICENSE
 
 
 **Contexte de développement**
 
-Ce jeu a été fait dans le cadre du cours "Développement de jeu vidéo 2D" dispensé par Isaac Pante (SLI, Lettres, UNIL)), année 2024, comme cours interdisciplinaires SSP, Psychologie, Unil.
+Ce jeu a été fait dans le cadre du cours "Fiction intéractive" dispensé par Isaac Pante (SLI, Lettres, UNIL)), année 2024, comme cours interdisciplinaires SSP, Psychologie, Unil.
 
