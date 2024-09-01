@@ -7,10 +7,9 @@ Time Sword? est une fiction interactive où vous vous retrouvez à la place du h
 À travers cette aventure, vous aurez l'occasion d'apprendre des astuces de psychologie, non seulement pour avancer dans le jeu, mais aussi pour vous préparer à de telles situations dans la vie réelle.
 
 **Captures d'écran du jeu :**
-![Capture 1 ](https://github.com/user-attachments/assets/5ffb0b8e-d334-4da3-b2b7-05a326f2ec7d)
-![capture 2](https://github.com/user-attachments/assets/7ddea48c-5ec3-42e2-8eae-26a2b9449a8e)
-![capture 3](https://github.com/user-attachments/assets/3a167e32-9a36-4435-a2ab-2ec8d50eefb2)
-![Capture 4](https://github.com/user-attachments/assets/c73419bc-d003-4002-a2c9-e0f48f06ba80)
+![1](https://github.com/user-attachments/assets/ea66e09f-1bd7-4247-9b63-9b8dfc2b80f3)
+![2](https://github.com/user-attachments/assets/ff53e6ce-5204-4926-ae77-dad51dbbe9e8)
+![3](https://github.com/user-attachments/assets/d9e664cd-a525-4276-8a21-acd4346a9f6a)
 
 
 **Procédure d'installation et de lancement**
