@@ -466,7 +466,7 @@ Le Héros contemplait la pierre en silence, puis te la tendit à nouveau. Tu fix
 
 *****"Est-ce que ça veut dire que tu veux prendre ta retraite?"
 
-Le Héros sourit, " Pourquoi pas lorsque je mourrai. Je n'ai pas besoin de l'épée... de la pierre pour continuer à aider le monde. Mais tu pourrais en avoir besoin pour commencer ton propre voyage. "
+Le Héros sourit, " Pourquoi pas lorsque je mourrai. Je n'ai pas besoin de l'épée... de la pierre pour continuer à aider le monde. Du moins quand un papillon n'est pas présent. Toujours quand un papillon est présent, tout tourne mal. Viles créatures, un battement de leur aile et une tornade entière est causé ailleurs...Tu pourrais avoir besoin de la pierre pour commencer ton propre voyage. "
 
 ******"Ce serait un véritable honneur de pouvoir continuer."
 Tu serres le bras du Héros avec un sourire, tes yeux dérivant lentement vers le lever de soleil qui se dévoile doucement à l'horizon.
@@ -478,7 +478,9 @@ Tu as utilisé la technique de la réciprocité sur le Héros. C’est une méth
 -> DONE
 
 ===RencontreAvecleHerosPassif===
-Le jour arrivé, il ne fut guère ardu de tomber sur le Héros en quête de son artefact. Tu lui offris l'objet aussitôt, et sa stupeur fut palpable devant la vitesse avec laquelle sa lame sacrée lui fut restituée et ce, sans la moindre trace de convoitise pour son pouvoir. Il narra alors ses mésaventures antérieures, confiant que la perte de son épée était habituelle, l'amenant généralement à traquer les voleurs. Il expliqua que tes actes, lever réunir les aventuriers et restituer la lame à son légitime possesseur malgré le pouvoir divin et séduisant de l'arme, le touchait profondément. Il jura de te rendre la pareille.
+Grâce à tes actes, la ville découvrit rapidement des anomalies dans la forêt au nord, et la créature aberrante fut débusquée. Un nécromancien utilisait l'énergie d'un papillon pour réanimer le corps de l'ancienne princesse. Cette dernière a ensuite chevauché l'un des trois dragons qu'elle possédait à travers un portail. Ce portail a ensuite recraché la créature aberrante. Cependant, le rituel fut interrompu par les éclaireurs avant que les deux autres dragons ne puissent être sacrifiés. En conséquence, la créature est apparue affaiblie, loin du niveau qu'elle avait lors de l'affrontement avec le Héros même si elle reste trop puissante pour la ville. Heureusement, le Héros était enfin arrivé en ville.
+
+Il ne fut guère ardu de tomber sur le Héros en quête de son artefact. Tu lui offris l'objet aussitôt, et sa stupeur fut palpable devant la vitesse avec laquelle sa lame sacrée lui fut restituée et ce, sans la moindre trace de convoitise pour son pouvoir. Il narra alors ses mésaventures antérieures, confiant que la perte de son épée était habituelle, l'amenant généralement à traquer les voleurs. Il expliqua que tes actes, lever réunir les aventuriers et restituer la lame à son légitime possesseur malgré le pouvoir divin et séduisant de l'arme, le touchait profondément. Il jura de te rendre la pareille.
 
 Sur ces paroles empreintes de gratitude, il disparaît de ta vue avec ses nouveaux coéquipiers. Quelques heures plus tard, le vacarme des explosions et les grondements sinistres te parviennent, témoins des affrontements épiques menés par le Héros. À son retour, il est peint d'une étrange couleur, semblable à celle qui coule de sa lame, signe tangible de son héroïsme et puissance.
 
@@ -572,8 +574,7 @@ Tu attendais des félicitations, une critique mais rien ne se dit excepté un so
 ******Sortir en ville 
 -> ArriverAuCentreVille
 
-***** Sortir en ville 
--> ArriverAuCentreVille
+
 ->DONE
 
 **** "La teneur de tes dires se pare d'une teinte de vérité si saisissante qu'il m'incite à demeurer au sein de ce lieu et à faire fi totalement de l'intégralité de ton propos, s'inscrivant paradoxallement dans la même perspective que celle que tu ambitionnais, tout en étant diamétralement opposé à celle-ci. En cette heureuse conjoncture, je m'incline devant la grandeur de ton savoir, qui se déploie tel un océan tumultueux à la recherche de sa propre rive, tout en dansant au rythme d'une symphonie cosmique. Je te témoigne ainsi ma gratitude, émue par la clarté de tes paroles, aussi limpides que les étoiles dans un ciel sans nuages."

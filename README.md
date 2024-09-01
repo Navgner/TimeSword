@@ -1,0 +1,61 @@
+**Star Seeker**
+
+Time Sword? est une fiction interactive où vous vous retrouvez à la place du héros, maintenant défunt, avec son épée légendaire face à une créature monstrueuse. Dans cet univers absurde, vous vous attendez à utiliser le pouvoir de l'épée pour remonter le temps et vaincre le monstre. Mais surprise : l'épée ne peut plus remonter le temps.
+
+À la place, vous devez persuader les habitants de la ville de vous aider en utilisant des tactiques psychologiques. La situation est compliquée : vous ne pouvez pas simplement annoncer qu'une créature menace la ville dans un monde où les papillons peuvent détruire des mondes entiers.
+
+À travers cette aventure, vous aurez l'occasion d'apprendre des astuces de psychologie, non seulement pour avancer dans le jeu, mais aussi pour vous préparer à de telles situations dans la vie réelle.
+
+**Captures d'écran du jeu :**
+![Capture 1 ](https://github.com/user-attachments/assets/5ffb0b8e-d334-4da3-b2b7-05a326f2ec7d)
+![capture 2](https://github.com/user-attachments/assets/7ddea48c-5ec3-42e2-8eae-26a2b9449a8e)
+![capture 3](https://github.com/user-attachments/assets/3a167e32-9a36-4435-a2ab-2ec8d50eefb2)
+![Capture 4](https://github.com/user-attachments/assets/c73419bc-d003-4002-a2c9-e0f48f06ba80)
+
+
+**Procédure d'installation et de lancement**
+
+Il existe deux façons de jouer à ce jeu :
+	
+- Jouer directement en ligne : Vous pouvez jouer au jeu directement sur le web en suivant ce lien: https://navgner.itch.io/star-seeker
+- Télécharger et jouer hors ligne : Téléchargez le fichier au format 7zip. qui se trouve dans le lien itch.io qui a été mis juste au dessus. Décompressez ce fichier avec le logiciel gratuit 7zip (recommandé) ou WinRAR. Ensuite, dans le dossier décompressé, double-cliquez sur le fichier "my project.exe" pour lancer le jeu.
+
+
+**Modules, libraires, scripts utilisés**
+- Made with Unity technologies
+- Scripts : 2D Game Kit from Unity, https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098, https://unity.com/fr/legal/as-terms
+- Menu buttons made with Alpaca Studio
+- ProjectMakers
+
+
+**Copyrights, informations de licence, références**
+- Musiques : 
+	- "Guiding Light", Helios by Alex Diggelmann, https://oliver-leins.itch.io/helios-ost
+	- "Refuge of the Fallen", Rocklynn Productions, https://assetstore.unity.com/packages/audio/music/orchestral/end-credits-refuge-of-the-fallen-music-pack-13820#publisher, https://unity.com/fr/legal/as-terms
+- Sound effect des étoiles : "UI-Accept or forward" de ViRiX (David McKee), https://opengameart.org/content/ui-accept-or-forward, https://creativecommons.org/licenses/by/3.0/
+- Autres sounds effects : 2D Game Kit from Unity, https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098, https://unity.com/fr/legal/as-terms
+- Background :
+  - "Simple Nature Pixel Background for Video Game" and "Pixelated sunset behind the clouds game background" by CraftPix.net 2D Game Assets (Compilation des images et retexturatisation), https://opengameart.org/content/simple-nature-pixel-background-for-video-game, https://opengameart.org/content/pixelated-sunset-behind-the-clouds-game-background, https://static.opengameart.org/OGA-BY-3.0.txt
+  - "18 Gradient Skies (640x480)" by rh0 (modifié et intégré dans le fond du ciel étoilé), https://opengameart.org/content/18-gradient-skies-640x480, https://creativecommons.org/publicdomain/zero/1.0/
+- Police pour les crédits et la page d'informations supplémentaires : Monotype Corsiva de Word
+- Ressources scientifiques :
+    *https://clan-du-dragon.com/blogs/blog-le-clan-du-dragon/constellation-du-dragon 
+    https://fr.wikipedia.org/wiki/Dragon_(constellation)*
+
+Outils Utilisés:
+- ChatGPT - Pour créer et résoudre du codage. Tout les codes ont été générés par ChatGPT.
+  - Fourni par: OpenAI
+  - URL: [ChatGPT](https://www.openai.com/chatgpt)
+- Logiciel utilisé pour le game art : Krita
+- UnitySweeper - Un outil pour nettoyer les projets Unity.
+  URL: https://github.com/nom-du-repo/unitysweeper
+  Licence: MIT License
+  Copyright (c) 2022 notiontheory
+  La licence MIT complète est disponible à l'adresse suivante :
+  https://github.com/nom-du-repo/unitysweeper/blob/main/LICENSE
+
+
+**Contexte de développement**
+
+Ce jeu a été fait dans le cadre du cours "Développement de jeu vidéo 2D" dispensé par Isaac Pante (SLI, Lettres, UNIL)), année 2024, comme cours interdisciplinaires SSP, Psychologie, Unil.
+
