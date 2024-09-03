@@ -258,7 +258,15 @@ Au lieu de labeliser le groupe entier, tu réalises que le faire de manière ind
 
 Enfin, tu décides de crier de plein poumons : "Chers aventuriers ! J'aurais besoin d'une faveur ! Je sais que beaucoup de fous viennent dans ce hall pour annoncer moults événements qui n'arrivent jamais, mais j'espère que vous m'écouterez tout de même. Je pense avoir détecté des anomalies dans la forêt au nord de la ville. Quels braves seraient prêts à aller vérifier les environs ? C’est une requête sans contrat."
 
-La mention de l'absence de contrat découragea plus d’un aventurier, mais heureusement, il resta encore de nombreux intéressés qui s’approchèrent de toi pour obtenir plus d’explications. Après avoir organisé plusieurs groupes, les aventuriers partirent pour explorer la forêt et s'assurer que la ville serait en sécurité.
+La mention de l'absence de contrat découragea plus d’un aventurier, mais heureusement, il resta encore de nombreux intéressés qui s’approchèrent de toi pour obtenir plus d’explications. Après avoir organisé plusieurs groupes, les aventuriers ont accepté d'attendre ton signal avant de partir à l'exploration.
+
+Satisfait, tu regardes ton épée.
+*"Toutes ces connaissances si spécifiques que tu as sont très impressionnantes. Tu devais sûrement être une dague par le passé. Pas étonnant que le Héros soit aussi charismatique."
+Non, le Héros est juste talentueux, tu ne peux te comparer au Héros lui-même tout de même... Quant à ma forme, elle s'adapte à l'âme de mon porteur. J'ai été bien des formes. Une fois, j'étais une harpe, jamais je pens- non, une histoire trop personnelle. Peut-être une fois.
+
+***Tu n'étais pas sûr de même vouloir connaître la suite. Tu proposes de conclure ton parcours pour la journée.
+-> ConclusionVille
+
 
 -> ConclusionVille
 
@@ -618,7 +626,7 @@ C'est le rôle du Héros qui t'attire? Ce n'est même pas sauver les innocents q
 L'épée ne t'appartient pas, le Héros est en vie et s'il veut la récupérer, que comptes-tu faire ? Refuser ? Lui expliquer que tu mérites mieux, malgré le fait que tu ne sois qu'une personne ordinaire? Qu'as-tu fait jusqu'à présent pour prouver que tu es digne de devenir un Héros ? Que faisais-tu lorsque tu avais déjà la possibilité de travailler par toi-même ? Penses-tu vraiment mériter ce rôle ?
 
 * Peut-être que je n'ai pas les capacités actuellement, mais je m'entraînerai dans chaque boucle temporelle autant que possible jusqu'à ce que j'atteigne le niveau du Héros lui-même. J'ai du temps infini, donc tout est possible.
-Alors, tu penses que juste parce que tu as une éternité devant toi, tu seras automatiquement productif ? Crois-tu vraiment que dans trois ans, tu seras toujours en train de t'entraîner dans le même jour? Ou bien tu serais plutôt en train de te prélasser, sachant que le temps est infini et que tu peux t'y mettre un toujours un peu plus tard? Tu retiendrais le monde entier en otage dans ta boucle temporelle ? Comment peux-tu croire que tu seras productif maintenant que tu as tout ce temps ? Rappelle-toi de tous ces moments où tu avais du temps. As-tu été productif ? As-tu accompli quelque chose de grandiose ?"
+Alors, tu penses que juste parce que tu as une éternité devant toi, tu seras automatiquement productif ? Crois-tu vraiment que dans trois ans, tu seras toujours en train de t'entraîner dans le même jour? Ou bien tu serais plutôt en train de te prélasser, sachant que le temps est infini et que tu peux t'y mettre toujours un peu plus tard? Tu retiendrais le monde entier en otage dans ta boucle temporelle ? Comment peux-tu croire que tu seras productif maintenant que tu as tout ce temps ? Rappelle-toi de tous ces moments où tu avais du temps. As-tu été productif ? As-tu accompli quelque chose de grandiose ?"
 **Oui
 Menteur. Tu ne serais pas ici si c'était le cas. Tu ne m'as pas convaincu maintenant il est temps d'être Messager.
 
