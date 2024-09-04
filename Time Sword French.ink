@@ -446,7 +446,7 @@ Je ne sais pas si tu le fais exprès, mais toucher le Héros est une excellente 
 
 ===TentativeConvaincreH11===
 "Je me demandais si tu accepterais de me laisser la pierre, cher Héros. Tu es bien entendu libre de décliner ma demande, mais peut-être que je pourrais également devenir un Héros? Est-ce que cela ne t'aiderait pas aussi dans tes quêtes d'avoir un compagnon de confiance?"
-« Et maintenant, tu utilises l'expression de la liberté ? Il suffit de dire à la personne en face qu'elle est totalement libre de ses décisions pour qu'elle soit plus encline à accepter ta proposition ! Depuis que je me suis transformé en pierre, tu sembles soudainement avoir accès à mes propres connaissances ! »
+ Et maintenant, tu utilises l'expression de la liberté ? Il suffit de dire à la personne en face qu'elle est totalement libre de ses décisions pour qu'elle soit plus encline à accepter ta proposition ! Depuis que je me suis transformé en pierre, tu sembles soudainement avoir accès à mes propres connaissances !
 
 Le Héros te fixa du regard. "Je réalise que c'est la première fois qu'un être connaît mon secret et offre son aide sans essayer de voler ce pouvoir ou me poignarder dans le dos directement... Désires-tu te joindre à mes aventures en tant qu'égal ?"
 ******"Ce serait un véritable honneur de pouvoir continuer."
