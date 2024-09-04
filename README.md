@@ -8,12 +8,12 @@ Time Sword? est une fiction interactive où vous vous retrouvez à la place du h
 
 Les techniques de psychologie enseignées pour augmenter le taux d'acceptation d'une requête sont les suivantes:
 - Influence non verbale, le toucher
-  - Toucher la main, le bras ou l'épaule améliores les chances qu'une demandes soit acceptée en plus. Même dans un groupe, il suffit de toucher une seule personne pour que la persuasion devienne contagieuse, comme si tous les autres membres du groupe ont aussi été touchés
+  - Toucher la main, le bras ou l'épaule améliores les chances qu'une demandes soit acceptée. Même dans un groupe, il suffit de toucher une seule personne pour que la persuasion devienne contagieuse, comme si tous les autres membres du groupe ont aussi été touchés
   - Dans un cadre commercial, on peut toucher légerement le client lors de la présentation d'un produit et celui-ci aura plus de chance d'être acheté
 - L'effet Porte-Dans-Le-Nez, émettre une trop grande requête pour ensuite émettre une plus petite
   - Cela marche redoutablement bien quand la nature de la demande est pro-sociale
 - l'effet Pied-dans-la-Porten similaire à Porte-Dans-Le-Nez a pour but de faire accepter une petite requête pour ensuite passer à une requête plus grande.
-  - Par exemple demander l'heure une personne, ensuite lui demander une pièce.
+  - Par exemple demander l'heure à une personne, ensuite lui demander une pièce.
 - L'étiquetage/Labellisation, qualifier d'une personne avec un adjectif pour le conformer à celui-ci
   - Par exemple classifier une personne comme d’aimable la poussera à respecter l’étiquette
 - La technique de l’insulte (oui elle marche vraiment)
