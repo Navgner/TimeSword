@@ -24,7 +24,8 @@ Les techniques de psychologie enseignées pour augmenter le taux d'acceptation d
     - L'anonymisation peut réduire les inhibitions et amplifier les comportements liés au rôle ou au costume porté.
       - Perdre une partie de leur identité personnelle peut amener à agir de manière plus extrême ou conforme aux attentes du groupe.
 - La réciprocité même quand elle n'est pas entiérement accomplie
-  - On rend un service à quelqu’un, et cette personne ressentira le désir de te rendre un service en retour. Cependant, il existe une variation subtile de cette technique- Elle consiste à offrir un service souvent trop arrangeante pour la personne en face et espérer que la personne refuse. Imaginez une personne avec un sac de pommes. On s'approches et demandes si on peut acheter une seule pomme pour dix fois son prix. La personne pourrait probablement refuser et finira même par te donner la pomme gratuitement, comme pour te remercier du service que tu allais lui rendre, c'est-dire lui acheter une pomme pour dix fois son prix. 
+  - On rend un service à quelqu’un, et cette personne ressentira le désir de te rendre un service en retour. Cependant, il existe une variation subtile de cette technique
+  - Elle consiste à offrir un service souvent trop arrangeante pour la personne en face et espérer que la personne refuse. Imaginez une personne avec un sac de pommes. On s'approches et demandes si on peut acheter une seule pomme pour dix fois son prix. La personne pourrait probablement refuser et finira même par te donner la pomme gratuitement, comme pour te remercier du service que tu allais lui rendre, c'est-dire lui acheter une pomme pour dix fois son prix. 
 
 **Captures d'écran du jeu :**
 ![1](https://github.com/user-attachments/assets/ea66e09f-1bd7-4247-9b63-9b8dfc2b80f3)
