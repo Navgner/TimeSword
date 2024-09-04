@@ -47,7 +47,9 @@ Il existe deux façons de jouer à ce jeu :
 
 **Copyrights, informations de licence, références**
 - Ressources scientifiques :
-    Guéguen, N. (2022). Psychologie de la manipulation et de la soumission. Dunod.
+  Guéguen, N. (2022). Psychologie de la manipulation et de la soumission. Dunod.
+  Cialdini, R. B. (2008). Influence: Science and practice (5th ed.). Pearson1
+  
 
 Outils Utilisés:
 - ChatGPT - Pour corriger les fautes de français. Tous les grands paragraphes ont été corrigé avec le prompt suivant “Corrige le texte suivant sans changer mon style d’écriture. Si tu peux rendre le texte plus fluide en réarrangeant l’ordre des phrases, fais-le, mais n’invente aucune nouvelle information ou phrase par rapport à ce qui est déjà écrit.”
