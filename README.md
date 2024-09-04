@@ -25,7 +25,7 @@ Les techniques de psychologie enseignées pour augmenter le taux d'acceptation d
       - Perdre une partie de leur identité personnelle peut amener à agir de manière plus extrême ou conforme aux attentes du groupe.
 - Expression du sentiment de la liberté, quand une requête est formulé avec une expression de la liberté, la requête est plus acceptée.
   - Des phrase mentionnant la liberté sont comme  « Je ne veux pas vous obliger », « C’est à vous de voir », « Vous êtes libre » « Je ne veux pas te forcer mais… », « Vous faites comme vous voulez », « C’est toi qui décides »
-- La réciprocité même quand elle n'est pas entiérement accomplie
+- L'effet de la réciprocité même quand elle n'est pas entiérement accomplie
   - On rend un service à quelqu’un, et cette personne ressentira le désir de te rendre un service en retour. Cependant, il existe une variation subtile de cette technique
   - Elle consiste à offrir un service souvent trop arrangeante pour la personne en face et espérer que la personne refuse. Imaginez une personne avec un sac de pommes. On s'approches et demandes si on peut acheter une seule pomme pour dix fois son prix. La personne pourrait probablement refuser et finira même par  donner la pomme gratuitement, comme pour remercier du service qui allait être rendu, c'est-dire lui acheter une pomme pour dix fois son prix. 
 
