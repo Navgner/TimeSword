@@ -6,7 +6,7 @@ Time Sword? est une fiction interactive où vous vous retrouvez à la place du h
 
 À travers cette aventure, vous aurez l'occasion d'apprendre des astuces de psychologie, non seulement pour avancer dans le jeu, mais aussi pour vous préparer à de telles situations dans la vie réelle, reconnaître les tactiques utilisés contre vous.
 
-Les techniques de psychologie enseignés pour avoir un taux d'acceptation pour une requête supérieur sont les suivantes:
+Les techniques de psychologie enseignées pour augmenter le taux d'acceptation d'une requête sont les suivantes:
 - Influence non verbale, le toucher
   - Toucher la main, le bras ou l'épaule améliores les chances qu'une demandes soit acceptée en plus. Même dans un groupe, il suffit de toucher une seule personne pour que la persuasion devienne contagieuse, comme si tous les autres membres du groupe ont aussi été touchés
   - Dans un cadre commercial, on peut toucher légerement le client lors de la présentation d'un produit et celui-ci aura plus de chance d'être acheté
