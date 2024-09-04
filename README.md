@@ -47,8 +47,8 @@ Il existe deux façons de jouer à ce jeu :
 
 **Copyrights, informations de licence, références**
 - Ressources scientifiques :
-  Guéguen, N. (2022). Psychologie de la manipulation et de la soumission. Dunod.
-  Cialdini, R. B. (2008). Influence: Science and practice (5th ed.). Pearson1
+	- Guéguen, N. (2022). Psychologie de la manipulation et de la soumission. Dunod.
+ 	- Cialdini, R. B. (2008). Influence: Science and practice (5th ed.). Pearson1
   
 
 Outils Utilisés:
